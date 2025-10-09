@@ -1,0 +1,15 @@
+{
+  "name": "projeto-de-javascript-para-typescript",
+  "version": "1.0.0",
+  "description": "Você deverá converter um projeto simples de JavaScript para TypeScript, aplicando os conceitos aprendidos em aula, como:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
